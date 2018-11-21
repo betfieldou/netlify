@@ -1,0 +1,11 @@
+time="21 Nov 18 23:13 +0200" level=debug msg=PreRun arguments=[] command=deploy 
+time="21 Nov 18 23:13 +0200" level=debug msg="configure debug middleware" 
+time="21 Nov 18 23:13 +0200" level=debug msg="configure logging middleware" 
+time="21 Nov 18 23:13 +0200" level=debug msg="setup logger middleware: panic" 
+time="21 Nov 18 23:13 +0200" level=debug msg="configure auth middleware" 
+time="21 Nov 18 23:13 +0200" level=debug msg="setup credentials" credentials=0x879c70 
+time="21 Nov 18 23:13 +0200" level=debug msg="configure client middleware" 
+time="21 Nov 18 23:13 +0200" level=debug msg="setup API endpoint" endpoint="https://api.netlify.com" 
+time="21 Nov 18 23:13 +0200" level=debug msg="configure site middleware" 
+time="21 Nov 18 23:13 +0200" level=debug msg="Querying for existing sites" 
+time="21 Nov 18 23:13 +0200" level=error msg="command failed" error="No access token found. Please login." 
